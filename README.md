@@ -2,7 +2,7 @@
 
 ## Project Ideas:
 
-#### 1. Problem: Reduce Motor Vehicle Collisions**
+#### 1. Problem: Reduce Motor Vehicle Collisions
 	- **Potential Data Sets:** [NYC Open Data on Motor Vehicle Collisions](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95), [NYC Street Centerline Data](https://data.cityofnewyork.us/City-Government/NYC-Street-Centerline-CSCL-/exjm-f27b), [NYC Sidewalk Features](https://data.cityofnewyork.us/City-Government/Sidewalk-Features/vfx9-tbb6)
 	- **Questions to address:**
 		* Where is it most dangerous (intersections, neighborhoods, zip codes)?
