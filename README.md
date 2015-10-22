@@ -1,12 +1,13 @@
 # Lede Hackathon
 
-## What's next:
+### What's next
 
-**Friday, October 23:** EDA + initial visualizations for projects 
+* **Friday, October 23:** EDA + initial visualizations for projects 
+* **Friday, November 6:** Feature extraction & creation
 
-## Project Ideas:
+### Project Ideas
 
-### 1. Problem: Reduce Motor Vehicle Collisions
+### 1. Where are the most dangerous traffic intersections in NYC? 
 #### Potential Data Sets:
 * [NYC Open Data on Motor Vehicle Collisions](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95)
 * [NYC Street Centerline Data](https://data.cityofnewyork.us/City-Government/NYC-Street-Centerline-CSCL-/exjm-f27b)
@@ -32,8 +33,6 @@
 	* Reviews, tips, and check-ins from select cities. Reviews and tips have dates associated with them; each business has a city and coordinates associated with it as well
 * [Million Music Tweets Dataset (MMTD)](www.cp.jku.at/datasets/MMTD/)
 	* Detailed listening history (2011-11-09 to 2013-04-30) of Twitter users who tweeted their "now playing" songs through on Spotify. Includes location based on the Twitter profile
-	
-**POC:** Woojin Kim is serving as the point of contact for this project -- he may be at a career fair during the hackathon on Friday, but you can direct questions to him in the meantime (or to me, day of). 
 
 #### Questions to address:
 * **Yelp**
@@ -42,10 +41,13 @@
 		* Text analysis: Are people more likely use certain words depending on the weather?
 * **Million Music Tweets Dataset (MMTD)**
 	* Are certain songs/genres/(other musical characteristics) played more often or less often depending on the weather?
-	
-### 3. An NGO has supplied a dataset consisting of features and labels, and wants DrivenData competitors to come up with a model that predicts water pump failures.
+
+**POC:** Woojin Kim is serving as the point of contact for this project -- he may be at a career fair during the hackathon on Friday, but you can direct questions to him in the meantime (or to me, day of). 
+
+### 3. Predict Water Pump Failures in Tanzania
 #### Datasets
 * [DrivenData, "Pump it Up: Data Mining the Water Table"](http://www.drivendata.org/competitions/7/)
+	* An NGO has supplied a dataset consisting of features and labels, and wants DrivenData competitors to come up with a model that predicts water pump failures.
 
 #### Current game plan:
 1. Team member orientation and sign up on DrivenData
@@ -55,7 +57,7 @@
 
 **POC:** Adam Stoddard is serving as the point of contact for this project -- Slack him if you'd like to be added to the team on DrivenData. 
 
-### MIT Reality Mining Smartphone Data 
+### 4. MIT Reality Mining Smartphone Data 
 #### Datasets
 * [Reality Commons](http://realitycommons.media.mit.edu/realitymining4.html)
 	* Brief description of the data stolen from their website: These studies consist of one hundred Nokia 6600 smart phones pre-installed with several pieces of developed software developed, as well as a version of the Context application from the University of Helsinki [Raento et al. (2005)]. The information collected includes call logs, Bluetooth devices in proximity, cell tower IDs, application usage, and phone status (such as charging and idle), which comes primarily from the Context application. The study generated data collected by one hundred human subjects over the course of nine months and represent approximately 500,000 hours of data on users' location, communication and device usage behavior.
