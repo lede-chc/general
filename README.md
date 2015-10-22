@@ -5,6 +5,8 @@
 * **Friday, October 23:** EDA + initial visualizations for projects 
 * **Friday, November 6:** Feature extraction & creation
 
+---
+
 ### Project Ideas
 
 ### 1. Where are the most dangerous traffic intersections in NYC? 
@@ -66,3 +68,11 @@
 * Still being identified! 
 
 **POC:** Meghan Bongartz is serving as the point of contact for this project -- more details to come!  
+
+---
+
+#### Back Burner Project Ideas/Datasets
+* NASA Meteorite Landings Data — year, mass, geolocation, larger meteorites falling in certain areas? 46,000 landings, classes
+* Exoneration data for inmates — conviction dataset, exoneration data
+* Hospital Datasets — complications & infections
+* EPA Pollution Measurement Stations — EPA
