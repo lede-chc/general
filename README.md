@@ -33,7 +33,7 @@
 	* Provides historical weather data for most US and Canadian cities, as well as some major cities overseas; can specify exact data wanted (precipitation, temperature, sunshine, etc.)
 * [Yelp Dataset Challenge](https://www.yelp.com/dataset_challenge/dataset)
 	* Reviews, tips, and check-ins from select cities. Reviews and tips have dates associated with them; each business has a city and coordinates associated with it as well
-* [Million Music Tweets Dataset (MMTD)](www.cp.jku.at/datasets/MMTD/)
+* [Million Music Tweets Dataset (MMTD)](http://www.cp.jku.at/datasets/MMTD/)
 	* Detailed listening history (2011-11-09 to 2013-04-30) of Twitter users who tweeted their "now playing" songs through on Spotify. Includes location based on the Twitter profile
 
 #### Questions to address:
